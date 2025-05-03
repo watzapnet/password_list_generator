@@ -1,7 +1,7 @@
 import itertools
 import multiprocessing
 
-char_set = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!#$"
+char_set = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!"
 min_length = 8
 max_length = 12
 batch_size = 100000
